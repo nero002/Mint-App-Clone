@@ -1,4 +1,8 @@
 # Mint-News-Clone
+
+<img src="https://images.livemint.com/static/livemint-logo-v2.svg" width="220">
+
+
 ## Features
 * 100% Kotlin
 * MVVM architecture
