@@ -12,6 +12,8 @@
     * [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) - Observable data holder that notify views when underlying data changes.
 * [Glide](https://github.com/bumptech/glide) - Image loading.
 * [Coroutines](https://developer.android.com/kotlin/coroutines) - Light-weight threads for background operations.
+* [Swipe RefreshLAyout](https://developer.android.com/jetpack/androidx/releases/swiperefreshlayout) - Refreshing state of SwipeRefreshLayout.
+* [Shimmer effect](https://facebook.github.io/shimmer-android/) - Loading animation
 
 ## Architectures
 
