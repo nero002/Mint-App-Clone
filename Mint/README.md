@@ -23,4 +23,4 @@ We follow Google recommended [Guide to app architecture](https://developer.andro
 
 * **View**: Activity/Fragment with UI-specific logics only.
 * **ViewModel**: It keeps the logic away from View layer, provides data streams for UI and handle user interactions.
-* **Model**: Repository pattern, data layers that provide interface to manipulate data from both the local and remote data sources. The local data sources will serve as [single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth).
+* **Model**: Repository pattern, data layers that provide interface to manipulate data from both the local and remote data sources. 
